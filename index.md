@@ -27,8 +27,8 @@ Currently I am taking these classes:
 
 My goals right now are to:
 
-- [ ]not sleep through CSE 110
-- [ ]go to class
+- [ ] not sleep through CSE 110
+- [ ] go to class
 
 ## hobbies
 In my free time, I play a lot of Clash of Clans. Here is a picture of my base.  
