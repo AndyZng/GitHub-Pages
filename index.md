@@ -24,7 +24,12 @@ Currently I am taking these classes:
 3. CSE 150b
 4. CSE 140/L
 5. ECE 208
-   
+
+My goals right now are to:
+
+- [ ]not sleep through CSE 110
+- [ ]go to class
+
 ## hobbies
 In my free time, I play a lot of Clash of Clans. Here is a picture of my base.  
 
